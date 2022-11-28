@@ -123,7 +123,8 @@ padding-top: 10px;
 }
 
 .delete{
-    display: none;}
+    display: none;
+}
 .download{
     position: absolute;
     background-color: #8B0000;
